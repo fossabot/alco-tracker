@@ -13,6 +13,7 @@ a new server deployment system.
 [Подробнее](https://alco.readme.io/docs) 
 
 ![Alcolytics sheme](https://alcolytics.ru/media/alco-scheme.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falcolytics%2Falco-tracker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falcolytics%2Falco-tracker?ref=badge_shield)
 
 ## About AlcoTracker
 
@@ -97,3 +98,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falcolytics%2Falco-tracker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falcolytics%2Falco-tracker?ref=badge_large)
